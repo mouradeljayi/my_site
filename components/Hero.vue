@@ -1,5 +1,5 @@
 <template>
-  <div class="container mt-5">
+  <div class="container mt-5 mb-5">
     <div class="row align-items-center">
       <div class="col-md-6">
         <span>Hi, Welcome There !</span>
@@ -21,6 +21,7 @@
       </div>
     </div>
   </div>
+  <hr>
 </template>
 
 <style>
