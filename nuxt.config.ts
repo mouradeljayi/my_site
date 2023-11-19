@@ -9,7 +9,6 @@ export default defineNuxtConfig({
     "~/assets/main.css",
   ],
   modules: [
-    'nuxt-swiper',
     '@vueuse/nuxt',
     "nuxt-bootstrap-icons",
     ['@nuxtjs/google-fonts', {
